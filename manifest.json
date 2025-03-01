@@ -1,9 +1,9 @@
 ﻿{
 	"format_version": 2,
 	"header": {
-		"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-		"name": "§1§lAlien's§r §ePack name §4(BP/RP-V1.0.0)§r",
-		"uuid": "UUID1 HERE",
+		"description": "§rStops Zombies from breaking doors | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+		"name": "§1§lAlien's§r §eAnti Zombie Griefing §4(BP-V1.0.0)§r",
+		"uuid": "efc86ea8-f4fa-4509-a3f9-16b01b4c059f",
 		"version": [
 			1,
 			0,
@@ -12,14 +12,14 @@
 		"min_engine_version": [
 			1,
 			21,
-			0
+			60
 		]
 	},
 	"modules": [
 		{
-			"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-			"type": "resources | data",
-			"uuid": "UUID2 HERE",
+			"description": "§rStops Zombies from breaking doors | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+			"type": "data",
+			"uuid": "5a201f1a-01ed-4055-9e9c-6196956af685",
 			"version": [
 				1,
 				0,
@@ -31,7 +31,7 @@
 		"authors": [
 			"TheAlienDoctor"
 		],
-		"license": "BSD 3-Clause License",
+		"license": "UFO License",
 		"url": "https://TheAlienDoctor.com"
 	}
 }
